@@ -20,6 +20,9 @@ const articles = [
 	{ title: "Myocardial infarction", url: "page19.html" },
 	{ title: "Endocrine system", url: "page20.html" },
 	{ title: "Lymphatic system", url: "page21.html" },
+
+
+	{ title: "Escharotomy", url: "page80.html" },
   // Puedes agregar más artículos aquí
 ];
 
@@ -54,3 +57,4 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
