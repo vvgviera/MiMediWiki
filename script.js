@@ -32,6 +32,7 @@ const articles = [
 	{ title: "Tonsils", url: "page31.html" },
 	{ title: "Liver", url: "page32.html" },
 	{ title: "Bone marrow", url: "page33.html" },
+	{ title: "Kidneys", url: "page34.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -75,6 +76,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
