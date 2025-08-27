@@ -34,6 +34,7 @@ const articles = [
 	{ title: "Bone marrow", url: "page33.html" },
 	{ title: "Kidneys", url: "page34.html" },
 	{ title: "Thymus gland", url: "page35.html" },
+	{ title: "Pancreas", url: "page36.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -77,6 +78,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
