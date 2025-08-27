@@ -40,6 +40,7 @@ const articles = [
 	{ title: "Blood", url: "page39.html" },
 	{ title: "Interstitial fluid", url: "page40.html" },
 	{ title: "Sentinel node", url: "page41.html" },
+	{ title: "Mediastinum", url: "page42.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -83,6 +84,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
