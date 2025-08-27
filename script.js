@@ -23,7 +23,10 @@ const articles = [
 	{ title: "Abdominal Aortic Aneurysm", url: "page22.html" },
 	{ title: "Right atrium", url: "page23.html" },
 	{ title: "Right ventricle", url: "page24.html" },
+	{ title: "Left atrium", url: "page25.html" },
+	{ title: "Left ventricle", url: "page26.html" },
 
+	
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -67,6 +70,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
