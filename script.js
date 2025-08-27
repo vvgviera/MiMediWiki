@@ -38,6 +38,7 @@ const articles = [
 	{ title: "Bile interstitial fluid", url: "page37.html" },
 	{ title: "Lymph", url: "page38.html" },
 	{ title: "Blood", url: "page39.html" },
+	{ title: "Interstitial fluid", url: "page40.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -81,6 +82,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
