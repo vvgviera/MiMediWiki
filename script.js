@@ -28,7 +28,7 @@ const articles = [
 	{ title: "Lymph nodes", url: "page27.html" },
 	{ title: "Lymphatic vessels", url: "page28.html" },
 	{ title: "Spleen", url: "page29.html" },
-	
+	{ title: "Thoracic duct", url: "page30.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -72,6 +72,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
