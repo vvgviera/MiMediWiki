@@ -31,6 +31,7 @@ const articles = [
 	{ title: "Thoracic duct", url: "page30.html" },
 	{ title: "Tonsils", url: "page31.html" },
 	{ title: "Liver", url: "page32.html" },
+	{ title: "Bone marrow", url: "page33.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -74,6 +75,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
