@@ -27,6 +27,7 @@ const articles = [
 	{ title: "Impetigo", url: "page82.html" },
 	{ title: "Pronation", url: "page83.html" },
 	{ title: "Dystonia", url: "page84.html" },
+	{ title: "Arthritis", url: "page85.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -62,6 +63,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
