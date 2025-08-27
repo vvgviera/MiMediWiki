@@ -24,6 +24,7 @@ const articles = [
 
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
+	{ title: "Impetigo", url: "page82.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -59,6 +60,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
