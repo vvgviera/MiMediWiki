@@ -25,6 +25,7 @@ const articles = [
 	{ title: "Right ventricle", url: "page24.html" },
 	{ title: "Left atrium", url: "page25.html" },
 	{ title: "Left ventricle", url: "page26.html" },
+	{ title: "Lymph nodes", url: "page27.html" },
 
 	
 	
@@ -70,6 +71,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
