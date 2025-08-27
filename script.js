@@ -26,6 +26,7 @@ const articles = [
 	{ title: "Subungual hematoma", url: "page81.html" },
 	{ title: "Impetigo", url: "page82.html" },
 	{ title: "Pronation", url: "page83.html" },
+	{ title: "dystonia", url: "page84.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -61,6 +62,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
