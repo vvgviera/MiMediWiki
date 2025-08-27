@@ -27,7 +27,7 @@ const articles = [
 	{ title: "Left ventricle", url: "page26.html" },
 	{ title: "Lymph nodes", url: "page27.html" },
 	{ title: "Lymphatic vessels", url: "page28.html" },
-
+	{ title: "Spleen", url: "page29.html" },
 	
 	
 	{ title: "Escharotomy", url: "page80.html" },
@@ -72,6 +72,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
