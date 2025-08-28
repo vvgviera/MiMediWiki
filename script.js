@@ -45,6 +45,7 @@ const articles = [
 	{ title: "Thoracic diaphragm", url: "page44.html" },
 	{ title: "Duodenum", url: "page45.html" },
 	{ title: "Jejunum", url: "page46.html" },
+	{ title: "Ileum", url: "page47.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -88,6 +89,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
