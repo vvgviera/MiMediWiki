@@ -49,6 +49,7 @@ const articles = [
 	{ title: "Cecum", url: "page48.html" },
 	{ title: "Transverse colon", url: "page49.html" },
 	{ title: "Ascending colon", url: "page50.html" },
+	{ title: "Descending colon", url: "page51.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -92,6 +93,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
