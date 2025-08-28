@@ -43,7 +43,7 @@ const articles = [
 	{ title: "Mediastinum", url: "page42.html" },
 	{ title: "Pneumomediastinum", url: "page43.html" },
 	{ title: "Thoracic diaphragm", url: "page44.html" },
-	{ title: "Thoracic diaphragm", url: "page45.html" },
+	{ title: "Duodenum", url: "page45.html" },
 	{ title: "Jejunum", url: "page46.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
@@ -88,6 +88,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
