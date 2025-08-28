@@ -41,7 +41,8 @@ const articles = [
 	{ title: "Interstitial fluid", url: "page40.html" },
 	{ title: "Sentinel node", url: "page41.html" },
 	{ title: "Mediastinum", url: "page42.html" },
-	
+	{ title: "Pneumomediastinum", url: "page43.html" },
+
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
 	{ title: "Impetigo", url: "page82.html" },
@@ -84,6 +85,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
