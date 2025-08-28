@@ -57,6 +57,7 @@ const articles = [
 	{ title: "Submucosa", url: "page56.html" },
 	{ title: "Mucosa", url: "page57.html" },
 	{ title: "Serosa", url: "page58.html" },
+	{ title: "Urethra", url: "page59.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -100,6 +101,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
