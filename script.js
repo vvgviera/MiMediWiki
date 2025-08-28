@@ -55,6 +55,7 @@ const articles = [
 	{ title: "Anus", url: "page54.html" },
 	{ title: "Muscle", url: "page55.html" },
 	{ title: "Submucosa", url: "page56.html" },
+	{ title: "Mucosa", url: "page57.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -98,6 +99,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
