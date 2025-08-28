@@ -42,6 +42,7 @@ const articles = [
 	{ title: "Sentinel node", url: "page41.html" },
 	{ title: "Mediastinum", url: "page42.html" },
 	{ title: "Pneumomediastinum", url: "page43.html" },
+	{ title: "Thoracic diaphragm", url: "page44.html" },
 
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -85,6 +86,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
