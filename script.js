@@ -51,6 +51,7 @@ const articles = [
 	{ title: "Ascending colon", url: "page50.html" },
 	{ title: "Descending colon", url: "page51.html" },
 	{ title: "Sigmoid colon", url: "page52.html" },
+	{ title: "Rectum", url: "page53.html" },
 	
 	{ title: "Escharotomy", url: "page80.html" },
 	{ title: "Subungual hematoma", url: "page81.html" },
@@ -94,6 +95,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
