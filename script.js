@@ -72,6 +72,7 @@ const articles = [
 	{ title: "Emphysema", url: "page90.html" },
 	{ title: "Respiratory distress syndrome", url: "page91.html" },
 	{ title: "Pleural Cavity", url: "page92.html" },
+	{ title: "Hemothorax", url: "page93.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -107,6 +108,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
