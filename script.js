@@ -68,6 +68,8 @@ const articles = [
 	{ title: "Diaphragm", url: "page86.html" },
 	{ title: "Pleura", url: "page87.html" },
 	{ title: "Cystic fibrosis", url: "page88.html" },
+	{ title: "Pneumoconiosis", url: "page89.html" },
+	
   // Puedes agregar más artículos aquí
 ];
 
@@ -102,6 +104,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
