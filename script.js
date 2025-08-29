@@ -67,6 +67,7 @@ const articles = [
 	{ title: "Arthritis", url: "page85.html" },
 	{ title: "Diaphragm", url: "page86.html" },
 	{ title: "Pleura", url: "page87.html" },
+	{ title: "Cystic fibrosis", url: "page88.html" },
   // Puedes agregar más artículos aquí
 ];
 
@@ -101,6 +102,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
