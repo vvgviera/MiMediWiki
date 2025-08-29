@@ -73,6 +73,7 @@ const articles = [
 	{ title: "Respiratory distress syndrome", url: "page91.html" },
 	{ title: "Pleural Cavity", url: "page92.html" },
 	{ title: "Hemothorax", url: "page93.html" },
+	{ title: "Hydrothorax", url: "page94.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -108,6 +109,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
