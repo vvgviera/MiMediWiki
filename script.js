@@ -75,6 +75,7 @@ const articles = [
 	{ title: "Hemothorax", url: "page93.html" },
 	{ title: "Hydrothorax", url: "page94.html" },
 	{ title: "Hemoptysis", url: "page95.html" },
+	{ title: "Pleural effusion", url: "page96.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -110,6 +111,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
