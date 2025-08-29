@@ -69,6 +69,7 @@ const articles = [
 	{ title: "Pleura", url: "page87.html" },
 	{ title: "Cystic fibrosis", url: "page88.html" },
 	{ title: "Pneumoconiosis", url: "page89.html" },
+	{ title: "Emphysema", url: "page90.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -104,6 +105,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
