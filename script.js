@@ -71,7 +71,7 @@ const articles = [
 	{ title: "Pneumoconiosis", url: "page89.html" },
 	{ title: "Emphysema", url: "page90.html" },
 	{ title: "Respiratory distress syndrome", url: "page91.html" },
-	
+	{ title: "Pleural Cavity", url: "page92.html" },
 	
   // Puedes agregar más artículos aquí
 ];
@@ -107,6 +107,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
