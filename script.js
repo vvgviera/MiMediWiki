@@ -85,7 +85,8 @@ const articles = [
 	{ title: "Thrombectomy", url: "page103.html" },
 	{ title: "Ischemia", url: "page104.html" },
 	{ title: "Heart failure", url: "page105.html" },
-
+	{ title: "Fibrillation", url: "page106.html" },
+	
 	{ title: "PRN", url: "page250.html" },
 	
   // Puedes agregar más artículos aquí
@@ -122,6 +123,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
