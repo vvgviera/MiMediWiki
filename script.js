@@ -86,6 +86,7 @@ const articles = [
 	{ title: "Ischemia", url: "page104.html" },
 	{ title: "Heart failure", url: "page105.html" },
 	{ title: "Fibrillation", url: "page106.html" },
+	{ title: "Dyslipidemia", url: "page107.html" },
 	
 	{ title: "PRN", url: "page250.html" },
 	
@@ -123,6 +124,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
