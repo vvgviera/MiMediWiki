@@ -82,6 +82,7 @@ const articles = [
 	{ title: "Epicardium", url: "page100.html" },
 	{ title: "Valvotomy", url: "page101.html" },
 	{ title: "Angiography", url: "page102.html" },
+	{ title: "Thrombectomy", url: "page103.html" },
 
 	{ title: "PRN", url: "page250.html" },
 	
@@ -119,6 +120,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
