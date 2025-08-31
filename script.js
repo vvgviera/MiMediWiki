@@ -83,6 +83,7 @@ const articles = [
 	{ title: "Valvotomy", url: "page101.html" },
 	{ title: "Angiography", url: "page102.html" },
 	{ title: "Thrombectomy", url: "page103.html" },
+	{ title: "Ischemia", url: "page104.html" },
 
 	{ title: "PRN", url: "page250.html" },
 	
@@ -120,6 +121,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
