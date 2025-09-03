@@ -97,7 +97,7 @@ const articles = [
 	{ title: "Autoinfusion", url: "page115.html" },
 	{ title: "Alloplasty", url: "page116.html" },
 	{ title: "Mediastinoscopy", url: "page117.html" },
-	
+	{ title: "Mediastinotomy", url: "page118.html" },
 	{ title: "PRN", url: "page250.html" },
 	
   // Puedes agregar más artículos aquí
@@ -134,6 +134,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
