@@ -89,8 +89,8 @@ const articles = [
 	{ title: "Dyslipidemia", url: "page107.html" },
 	{ title: "Splenorrhaphy", url: "page108.html" },
 	{ title: "Erythremia", url: "page109.html" },
-	{ title: " Phagocytosis", url: "page110.html" },
-	{ title: " Cytopenia", url: "page111.html" },
+	{ title: "Phagocytosis", url: "page110.html" },
+	{ title: "Cytopenia", url: "page111.html" },
 
 	
 	{ title: "PRN", url: "page250.html" },
@@ -129,6 +129,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
