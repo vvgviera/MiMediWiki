@@ -95,6 +95,7 @@ const articles = [
 	{ title: "Autologous", url: "page113.html" },
 	{ title: "Allogenic", url: "page114.html" },
 	{ title: "Autoinfusion", url: "page115.html" },
+	{ title: "Alloplasty", url: "page116.html" },
 	
 	{ title: "PRN", url: "page250.html" },
 	
@@ -132,6 +133,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
