@@ -102,6 +102,7 @@ const articles = [
 	
 	{ title: "PRN", url: "page250.html" },
 	{ title: "Central Pain Syndrome", url: "page251.html" },
+	{ title: "Chronic Pain Syndrome", url: "page252.html" },
   // Puedes agregar más artículos aquí
 ];
 
@@ -136,6 +137,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
