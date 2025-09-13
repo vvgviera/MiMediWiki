@@ -98,8 +98,10 @@ const articles = [
 	{ title: "Alloplasty", url: "page116.html" },
 	{ title: "Mediastinoscopy", url: "page117.html" },
 	{ title: "Mediastinotomy", url: "page118.html" },
-	{ title: "PRN", url: "page250.html" },
+
 	
+	{ title: "PRN", url: "page250.html" },
+	{ title: "Central Pain Syndrome", url: "page251.html" },
   // Puedes agregar más artículos aquí
 ];
 
@@ -134,6 +136,7 @@ input.addEventListener("input", () => {
     resultsList.appendChild(li);
   });
 });
+
 
 
 
